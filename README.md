@@ -4,14 +4,24 @@ This repository contains organized study materials, including notes and question
 
 ## File Structure
 CSEBU-resource-/<br>
-│<br>
-├── 1st sem/<br>
-│ ├── notes/<br>
-│ │ ├── subject1-notes.pdf<br>
-│ │ ├── subject2-notes.docx<br>
-│ │ └── ...<br>
-│ └── questions/<br>
-│ ├── subject1-questions.pdf<br>
-│ ├── subject2-questions.docx<br>
-│ └── ...
-
+│ <br>
+├── Semester-1/<br>
+│   ├── Subject-1/<br>
+│   │   ├── notes/<br>
+│   │   │   ├── topic1-notes.pdf<br>
+│   │   │   ├── topic2-notes.docx<br>
+│   │   │   └── ...<br>
+│   │   └── questions/<br>
+│   │       ├── topic1-questions.pdf<br>
+│   │       ├── topic2-questions.docx<br>
+│   │       └── ...<br>
+│   ├── Subject-2/<br>
+│   │   ├── notes/<br>
+│   │   │   ├── topic1-notes.pdf<br>
+│   │   │   ├── topic2-notes.docx<br>
+│   │   │   └── ...<br>
+│   │   └── questions/<br>
+│   │       ├── topic1-questions.pdf<br>
+│   │       ├── topic2-questions.docx<br>
+│   │       └── ...<br>
+│   └── ...<br>
