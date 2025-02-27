@@ -5,7 +5,7 @@ This repository contains organized study materials, including notes and question
 ## File Structure
 CSEBU-resource-/<br>
 │ <br>
-├── Semester-1/<br>
+├── --------Semester-1/<br>
 │   ├── Subject-1/<br>
 │   │   ├── notes/<br>
 │   │   │   ├── topic1-notes.pdf<br>
