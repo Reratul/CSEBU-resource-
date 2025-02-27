@@ -10,29 +10,4 @@ CSEBU-resource-/
 │ │ ├── subject1-notes.pdf
 │ │ ├── subject2-notes.docx
 │ │ └── ...
-│ └── questions/
-│ ├── subject1-questions.pdf
-│ ├── subject2-questions.docx
-│ └── ...
-│
-├── Semester-2/
-│ ├── notes/
-│ │ ├── subject1-notes.pdf
-│ │ ├── subject2-notes.docx
-│ │ └── ...
-│ └── questions/
-│ ├── subject1-questions.pdf
-│ ├── subject2-questions.docx
-│ └── ...
-│
-├── Semester-3/
-│ ├── notes/
-│ │ ├── subject1-notes.pdf
-│ │ ├── subject2-notes.docx
-│ │ └── ...
-│ └── questions/
-│ ├── subject1-questions.pdf
-│ ├── subject2-questions.docx
-│ └── ...
-│
-└── ...
+
