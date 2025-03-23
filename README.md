@@ -2,5 +2,6 @@
 
 This repository contains organized study materials, including notes and questions, categorized by semester.
 
-## File Structure
+Note : If someone want to contribute contact at reratulazime@gmail.com
+
 
