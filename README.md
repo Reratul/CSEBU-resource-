@@ -21,6 +21,16 @@ This repository contains organized study materials, including notes and question
    │   ├── (same structure as above)  
 
 
-Note : If someone want to contribute contact at reratulazime@gmail.com
+Note : If someone want to contribute contact at 
+Reratul Azime :
+reratulazime@gmail.com
+----------------------
+
+Mahfuj Abdullah:
+mahfujabdulla9@gmail.com
+---------------------
+
+
+
 
 
