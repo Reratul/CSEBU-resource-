@@ -24,7 +24,8 @@ This repository contains organized study materials, including notes and question
 
 
 
-   ![Visual Selection](./others/Github%20bucse/visual%20selection.png)
+  ![Visual Selection](others/Github%20bucse%20-%20visual%20selection.png)
+
 
 
 
