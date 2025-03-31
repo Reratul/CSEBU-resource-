@@ -2,7 +2,7 @@
 
 This repository contains organized study materials, including notes and questions, categorized by semester.
 --------------------------------
-
+<!-- 
 📁 Semester_X  
    ├── 📁 Subject_1  
    │   ├── 📁 Questions  
@@ -22,7 +22,7 @@ This repository contains organized study materials, including notes and question
    ├── 📁 Subject_3  
    │   ├── (same structure as above)  
 
-
+-->
 
   ![Visual Selection](others/Github%20bucse%20-%20visual%20selection.png)
 
